@@ -1,0 +1,7 @@
+{
+  "cmake.configureOnOpen": false,
+  "workbench.colorCustomizations": {
+    "activityBar.activeBorder": "#ff9000"
+  },
+  "peacock.color": "#9000FF"
+}
